@@ -5,8 +5,7 @@
 ### create
 
 创建文件。
-
-<img src="/Users/gongzihan/Library/Application Support/typora-user-images/image-20211208132738691.png" alt="image-20211208132738691" style="zoom:50%;" />
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/60762269/163771261-07878c11-cc6c-43aa-82a9-a4c4ba570d90.png">
 
 创建目录：
 
